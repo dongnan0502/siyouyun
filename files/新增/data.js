@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"新增.html",
-  "generationDate":new Date(1406706481235.45),
+  "generationDate":new Date(1406709525482.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -238,7 +238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u81.png"}},
+            "normal~":"images/查看/u83.png"}},
 {
           "id":"8ef50c3421704d42b8c0d0d0dcfe7bfd",
           "label":"",
@@ -344,7 +344,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u85.png"}},
+            "normal~":"images/查看_1/u85.png"}},
 {
           "id":"f9d7f1f6d4cd4457b5708bc6fe3d0e53",
           "label":"",
@@ -416,7 +416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u89.png"}},
+            "normal~":"images/查看_1/u89.png"}},
 {
           "id":"b1664c1bba9c44e19890638dd38cea45",
           "label":"",
@@ -514,7 +514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u93.png"}},
+            "normal~":"images/查看_1/u93.png"}},
 {
           "id":"508ad9b409e54029b86c5537c41d7af2",
           "label":"",
@@ -596,7 +596,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u131.png"}},
+            "normal~":"images/查看_1/u131.png"}},
 {
           "id":"e1f628933c554d8b8b0587ebdd6a6b98",
           "label":"",
@@ -637,7 +637,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u119.png"}},
+            "normal~":"images/修改_1/u119.png"}},
 {
           "id":"bc9e6c2b12994b518bfc3c4584b821ab",
           "label":"",
@@ -678,7 +678,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u123.png"}},
+            "normal~":"images/修改_1/u123.png"}},
 {
           "id":"96fd36ce116d46c1851f7be72aac5cfe",
           "label":"",
@@ -719,7 +719,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"990e9bd5249b40d9b8ae6dee864b61e0",
           "label":"",
@@ -916,7 +916,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u143.png"}},
+            "normal~":"images/修改_1/u143.png"}},
 {
           "id":"7630d927db9a4738802cf9da72aecb99",
           "label":"",
@@ -1606,7 +1606,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u201.png"}},
+            "normal~":"images/修改/u198.png"}},
 {
           "id":"106521786b2f4949ba03551c5670206a",
           "label":"",
@@ -1735,7 +1735,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u201.png"}},
+            "normal~":"images/修改/u198.png"}},
 {
           "id":"482704257f774ac4891278088c98a556",
           "label":"",
@@ -1916,7 +1916,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u201.png"}},
+            "normal~":"images/修改/u198.png"}},
 {
           "id":"dfa3f268521f4cc29c8967e25d5fcb4c",
           "label":"",
@@ -2004,7 +2004,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u201.png"}},
+            "normal~":"images/修改/u198.png"}},
 {
           "id":"ef11847dc5644f6e9b1d4b70785c07a1",
           "label":"",
@@ -2305,7 +2305,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u143.png"}},
+            "normal~":"images/修改_1/u143.png"}},
 {
           "id":"ee5a74774ef2461da8198fd8aa77435b",
           "label":"",
@@ -2346,7 +2346,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u201.png"}},
+            "normal~":"images/修改/u198.png"}},
 {
           "id":"cffb75cc1762479c8d6841cff6b970ed",
           "label":"",

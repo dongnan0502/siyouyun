@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"删除_3.html",
-  "generationDate":new Date(1406706485440.13),
+  "generationDate":new Date(1406709530093.36),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -1656,7 +1656,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/删除/u156.png"}},
+            "normal~":"images/删除/u158.png"}},
 {
           "id":"ab248c278ae349c58e19b42fd3e22b93",
           "label":"",
@@ -1689,7 +1689,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/删除/u158.jpg"}},
+            "normal~":"images/删除/u160.jpg"}},
 {
           "id":"bad8eab921484ee5ab3d2c3488265dfe",
           "label":"",
@@ -1724,7 +1724,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/删除/u160.png"}}]}},
+            "normal~":"images/删除/u162.png"}}]}},
   "masters":{
     "b9adb76f56e64f61a96abc8a740e28ef":{
       "packageId":"b9adb76f56e64f61a96abc8a740e28ef",

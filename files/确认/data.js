@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"确认.html",
-  "generationDate":new Date(1406706477077.03),
+  "generationDate":new Date(1406709515929.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -238,7 +238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u81.png"}},
+            "normal~":"images/查看/u83.png"}},
 {
           "id":"138c4d58c04c48f7b345bfd9b98183c2",
           "label":"",
@@ -326,7 +326,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"597baf7b6bce41cd8ff1b0e9a33ada64",
           "label":"",
@@ -556,7 +556,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"2bf31f019dc443d9b015463fb3486f99",
           "label":"",
@@ -710,7 +710,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"cea0f4d9bdac4e2ebdc00e147d953a5a",
           "label":"",
@@ -979,7 +979,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"f7c30df90acf4cd48b2dd89424c9485f",
           "label":"",
@@ -1207,7 +1207,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"98c46dad981a4711b3b4e8b9e234f74a",
           "label":"",
@@ -1445,7 +1445,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"f60c9e46b54a4d2589975dbede3b27db",
           "label":"",
@@ -1519,7 +1519,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"8c62e23803f448ff9652845a4709226f",
           "label":"",
@@ -1593,7 +1593,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"55a90080c7684561ac2df6a2a8eb1f04",
           "label":"",

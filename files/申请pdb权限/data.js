@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"申请pdb权限.html",
-  "generationDate":new Date(1406706457011.01),
+  "generationDate":new Date(1406709499313.09),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"删除个人帐号.html",
-  "generationDate":new Date(1406706460991.8),
+  "generationDate":new Date(1406709503833.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

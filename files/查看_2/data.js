@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看_2.html",
-  "generationDate":new Date(1406706480427.75),
+  "generationDate":new Date(1406709524577.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改/u76.png"}},
+            "normal~":"images/修改_1/u76.png"}},
 {
           "id":"723d4d75157243e9b016176fe2b1853b",
           "label":"",
@@ -238,7 +238,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u81.png"}},
+            "normal~":"images/查看/u83.png"}},
 {
           "id":"4e3f90002e1c47f9ab7a80b1cb987d62",
           "label":"",
@@ -344,7 +344,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u85.png"}},
+            "normal~":"images/查看_1/u85.png"}},
 {
           "id":"72d6a1d376584f469c969d1f916c01a9",
           "label":"",
@@ -416,7 +416,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u89.png"}},
+            "normal~":"images/查看_1/u89.png"}},
 {
           "id":"90258c43c4684c19bf6ea1abcdcf966e",
           "label":"",
@@ -514,7 +514,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u93.png"}},
+            "normal~":"images/查看_1/u93.png"}},
 {
           "id":"914d3a3b460a4b07a08c9b1e91ad2c4d",
           "label":"",
@@ -812,7 +812,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u131.png"}},
+            "normal~":"images/查看_1/u131.png"}},
 {
           "id":"52bf2297436344fbb37a5343fcde3e3b",
           "label":"",
@@ -1145,7 +1145,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u157.png"}},
+            "normal~":"images/查看/u107.png"}},
 {
           "id":"edb39e7e1f1d40ae92cb5bac77b5d2f8",
           "label":"",
@@ -1576,7 +1576,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u97.png"}}]}},
+            "normal~":"images/查看/u196.png"}}]}},
   "masters":{
     "b9adb76f56e64f61a96abc8a740e28ef":{
       "packageId":"b9adb76f56e64f61a96abc8a740e28ef",
