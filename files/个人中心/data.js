@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"个人中心.html",
-  "generationDate":new Date(1406709496189.79),
+  "generationDate":new Date(1406877778892.85),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -275,7 +275,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":335.5,
+              "x":336,
               "y":251},
             "size":{
               "width":65,
@@ -298,7 +298,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":335.5,
+                  "x":336,
                   "y":251},
                 "size":{
                   "width":65,

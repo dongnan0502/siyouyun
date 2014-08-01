@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看详情.html",
-  "generationDate":new Date(1406709507279.04),
+  "generationDate":new Date(1406877792954.8),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2135,7 +2135,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":747,
+              "x":748,
               "y":957},
             "size":{
               "width":129,
@@ -2158,7 +2158,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":747,
+                  "x":748,
                   "y":957},
                 "size":{
                   "width":129,
@@ -2869,7 +2869,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":747,
+              "x":748,
               "y":1054},
             "size":{
               "width":129,
@@ -2892,7 +2892,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":747,
+                  "x":748,
                   "y":1054},
                 "size":{
                   "width":129,
@@ -5272,7 +5272,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":335.5,
+              "x":336,
               "y":251},
             "size":{
               "width":65,
@@ -5295,7 +5295,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":335.5,
+                  "x":336,
                   "y":251},
                 "size":{
                   "width":65,

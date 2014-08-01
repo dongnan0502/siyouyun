@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"审批.html",
-  "generationDate":new Date(1406709520747.2),
+  "generationDate":new Date(1406877802770.06),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -136,7 +136,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/修改_1/u76.png"}},
+            "normal~":"images/修改/u76.png"}},
 {
           "id":"32ac62a397da46d0813a9d2ab68fc122",
           "label":"",
@@ -435,7 +435,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u109.png"}},
+            "normal~":"images/查看/u93.png"}},
 {
           "id":"f8a02f326d43470799bdf3d102267e6a",
           "label":"",
@@ -1039,7 +1039,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u121.png"}},
+            "normal~":"images/查看/u105.png"}},
 {
           "id":"f3242f33eeb64b0581d9e3229431f2d2",
           "label":"",
@@ -1206,7 +1206,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u131.png"}},
+            "normal~":"images/查看/u115.png"}},
 {
           "id":"2c31ac9f184e4dfe8c48320abe769a9b",
           "label":"",
@@ -1247,7 +1247,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u133.png"}},
+            "normal~":"images/查看/u117.png"}},
 {
           "id":"86c68fb239b44d62bea32f44428aa92f",
           "label":"",
@@ -1621,7 +1621,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u153.png"}},
+            "normal~":"images/查看/u137.png"}},
 {
           "id":"03af39d0590347d6b0b4d0d615d1cc63",
           "label":"",
@@ -1664,7 +1664,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u121.png"}},
+            "normal~":"images/查看/u105.png"}},
 {
           "id":"c7a03478877a41da94bcdb9755e8549b",
           "label":"",
@@ -1705,7 +1705,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看/u107.png"}},
+            "normal~":"images/查看/u141.png"}},
 {
           "id":"27edb85d159d47a2bf31a83778b91f24",
           "label":"",
@@ -1976,7 +1976,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u121.png"}},
+            "normal~":"images/查看/u105.png"}},
 {
           "id":"ba1fd9c4bf7e44bab60049e88562ca4e",
           "label":"",
@@ -2280,7 +2280,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/查看_1/u121.png"}},
+            "normal~":"images/查看/u105.png"}},
 {
           "id":"171deabc575244d7b3c22d447f48e25b",
           "label":"",

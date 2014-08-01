@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"用户管理.html",
-  "generationDate":new Date(1406709500660.07),
+  "generationDate":new Date(1406877785354.62),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -5873,7 +5873,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":562},
             "size":{
               "width":100,
@@ -5889,7 +5889,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":562},
                 "size":{
                   "width":100,
@@ -5943,7 +5943,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":594},
             "size":{
               "width":100,
@@ -5959,7 +5959,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":594},
                 "size":{
                   "width":100,
@@ -6013,7 +6013,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":626},
             "size":{
               "width":100,
@@ -6029,7 +6029,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":626},
                 "size":{
                   "width":100,
@@ -6083,7 +6083,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":658},
             "size":{
               "width":100,
@@ -6099,7 +6099,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":658},
                 "size":{
                   "width":100,
@@ -6153,7 +6153,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":690},
             "size":{
               "width":100,
@@ -6169,7 +6169,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":690},
                 "size":{
                   "width":100,
@@ -6223,7 +6223,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":722},
             "size":{
               "width":100,
@@ -6239,7 +6239,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":722},
                 "size":{
                   "width":100,
@@ -6293,7 +6293,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":754},
             "size":{
               "width":100,
@@ -6309,7 +6309,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":754},
                 "size":{
                   "width":100,
@@ -6363,7 +6363,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":786},
             "size":{
               "width":140,
@@ -6379,7 +6379,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":786},
                 "size":{
                   "width":140,
@@ -6433,7 +6433,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":818},
             "size":{
               "width":100,
@@ -6449,7 +6449,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":818},
                 "size":{
                   "width":100,
@@ -6503,7 +6503,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":850},
             "size":{
               "width":100,
@@ -6519,7 +6519,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":850},
                 "size":{
                   "width":100,
@@ -6573,7 +6573,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":882},
             "size":{
               "width":100,
@@ -6589,7 +6589,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":882},
                 "size":{
                   "width":100,
@@ -6643,7 +6643,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":914},
             "size":{
               "width":100,
@@ -6659,7 +6659,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":914},
                 "size":{
                   "width":100,
@@ -6713,7 +6713,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":946},
             "size":{
               "width":150,
@@ -6729,7 +6729,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":946},
                 "size":{
                   "width":150,
@@ -6783,7 +6783,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":978},
             "size":{
               "width":120,
@@ -6799,7 +6799,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":978},
                 "size":{
                   "width":120,
@@ -6853,7 +6853,7 @@
           "visible":true,
           "style":{
             "location":{
-              "x":337.5,
+              "x":338,
               "y":1010},
             "size":{
               "width":100,
@@ -6869,7 +6869,7 @@
               "visible":true,
               "style":{
                 "location":{
-                  "x":337.5,
+                  "x":338,
                   "y":1010},
                 "size":{
                   "width":100,
@@ -7138,7 +7138,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":335.5,
+              "x":336,
               "y":251},
             "size":{
               "width":65,
@@ -7161,7 +7161,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":335.5,
+                  "x":336,
                   "y":251},
                 "size":{
                   "width":65,

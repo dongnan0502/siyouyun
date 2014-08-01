@@ -25,6 +25,14 @@
             "type":"Wireframe",
             "url":"注释说明.html"},
 {
+            "pageName":"首页",
+            "type":"Folder",
+            "url":""},
+{
+            "pageName":"首页",
+            "type":"Wireframe",
+            "url":"首页.html"},
+{
             "pageName":"个人中心",
             "type":"Folder",
             "url":"",
@@ -95,47 +103,47 @@
                 "children":[{
                     "pageName":"Dashboard",
                     "type":"Folder",
-                    "url":"",
+                    "url":""},
+{
+                    "pageName":"Dashboard（数据接入）",
+                    "type":"Wireframe",
+                    "url":"dashboard______.html",
                     "children":[{
-                        "pageName":"Dashboard（资源接入）",
+                        "pageName":"查看",
                         "type":"Wireframe",
-                        "url":"dashboard______.html",
-                        "children":[{
-                            "pageName":"查看",
-                            "type":"Wireframe",
-                            "url":"查看.html"},
+                        "url":"查看.html"},
 {
-                            "pageName":"修改",
-                            "type":"Wireframe",
-                            "url":"修改.html"},
-{
-                            "pageName":"确认",
-                            "type":"Wireframe",
-                            "url":"确认.html"},
-{
-                            "pageName":"删除",
-                            "type":"Wireframe",
-                            "url":"删除.html"}]},
-{
-                        "pageName":"Dashboard（数据接入）",
+                        "pageName":"修改",
                         "type":"Wireframe",
-                        "url":"dashboard_______1.html",
-                        "children":[{
-                            "pageName":"查看",
-                            "type":"Wireframe",
-                            "url":"查看_1.html"},
+                        "url":"修改.html"},
 {
-                            "pageName":"修改",
-                            "type":"Wireframe",
-                            "url":"修改_1.html"},
+                        "pageName":"审批",
+                        "type":"Wireframe",
+                        "url":"审批.html"},
 {
-                            "pageName":"审批",
-                            "type":"Wireframe",
-                            "url":"审批.html"},
+                        "pageName":"删除",
+                        "type":"Wireframe",
+                        "url":"删除.html"}]},
 {
-                            "pageName":"删除",
-                            "type":"Wireframe",
-                            "url":"删除_1.html"}]}]},
+                    "pageName":"Dashboard（资源接入）",
+                    "type":"Wireframe",
+                    "url":"dashboard_______1.html",
+                    "children":[{
+                        "pageName":"查看",
+                        "type":"Wireframe",
+                        "url":"查看_1.html"},
+{
+                        "pageName":"修改",
+                        "type":"Wireframe",
+                        "url":"修改_1.html"},
+{
+                        "pageName":"确认",
+                        "type":"Wireframe",
+                        "url":"确认.html"},
+{
+                        "pageName":"删除",
+                        "type":"Wireframe",
+                        "url":"删除_1.html"}]},
 {
                     "pageName":"数据接入",
                     "type":"Wireframe",
@@ -177,13 +185,13 @@
                             "type":"Wireframe",
                             "url":"查看_3.html"},
 {
-                            "pageName":"修改",
-                            "type":"Wireframe",
-                            "url":"修改_3.html"},
-{
                             "pageName":"新增",
                             "type":"Wireframe",
                             "url":"新增_1.html"},
+{
+                            "pageName":"修改",
+                            "type":"Wireframe",
+                            "url":"修改_3.html"},
 {
                             "pageName":"删除",
                             "type":"Wireframe",

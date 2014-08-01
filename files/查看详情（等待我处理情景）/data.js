@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"查看详情（等待我处理情景）.html",
-  "generationDate":new Date(1406709508194.55),
+  "generationDate":new Date(1406877793974.67),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2679,7 +2679,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":757,
+              "x":758,
               "y":967},
             "size":{
               "width":129,
@@ -2702,7 +2702,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":757,
+                  "x":758,
                   "y":967},
                 "size":{
                   "width":129,
@@ -3413,7 +3413,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":757,
+              "x":758,
               "y":1064},
             "size":{
               "width":129,
@@ -3436,7 +3436,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":757,
+                  "x":758,
                   "y":1064},
                 "size":{
                   "width":129,

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"我的pdb节点.html",
-  "generationDate":new Date(1406709497299.17),
+  "generationDate":new Date(1406877780044.07),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -4324,7 +4324,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":335.5,
+              "x":336,
               "y":251},
             "size":{
               "width":65,
@@ -4347,7 +4347,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":335.5,
+                  "x":336,
                   "y":251},
                 "size":{
                   "width":65,

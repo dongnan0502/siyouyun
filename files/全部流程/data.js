@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"全部流程.html",
-  "generationDate":new Date(1406709506389.2),
+  "generationDate":new Date(1406877791361.48),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2135,7 +2135,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":747,
+              "x":748,
               "y":957},
             "size":{
               "width":129,
@@ -2158,7 +2158,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":747,
+                  "x":748,
                   "y":957},
                 "size":{
                   "width":129,
@@ -2869,7 +2869,7 @@
               "color":0xFF666666,
               "opacity":1},
             "location":{
-              "x":747,
+              "x":748,
               "y":1054},
             "size":{
               "width":129,
@@ -2892,7 +2892,7 @@
                   "color":0xFF666666,
                   "opacity":1},
                 "location":{
-                  "x":747,
+                  "x":748,
                   "y":1054},
                 "size":{
                   "width":129,
@@ -5934,7 +5934,7 @@
               "color":0xFFFFFF},
             "location":{
               "x":627,
-              "y":10.7999992370605},
+              "y":11},
             "size":{
               "width":130,
               "height":40}},
@@ -5955,7 +5955,7 @@
                   "color":0xFFFFFF},
                 "location":{
                   "x":627,
-                  "y":10.7999992370605},
+                  "y":11},
                 "size":{
                   "width":130,
                   "height":40}},
@@ -6232,7 +6232,7 @@
               "color":0xFFFFFFFF,
               "opacity":1},
             "location":{
-              "x":335.5,
+              "x":336,
               "y":251},
             "size":{
               "width":65,
@@ -6255,7 +6255,7 @@
                   "color":0xFFFFFFFF,
                   "opacity":1},
                 "location":{
-                  "x":335.5,
+                  "x":336,
                   "y":251},
                 "size":{
                   "width":65,
@@ -6989,7 +6989,7 @@
               "fillType":"solid",
               "color":0xFFFFFF},
             "location":{
-              "x":933.5,
+              "x":934,
               "y":802},
             "size":{
               "width":64,
@@ -7013,7 +7013,7 @@
                   "fillType":"solid",
                   "color":0xFFFFFF},
                 "location":{
-                  "x":933.5,
+                  "x":934,
                   "y":802},
                 "size":{
                   "width":64,
