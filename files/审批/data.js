@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"审批.html",
-  "generationDate":new Date(1407753312950.72),
+  "generationDate":new Date(1407753561105.47),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

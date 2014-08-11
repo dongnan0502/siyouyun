@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"权限申请_无权限情景_.html",
-  "generationDate":new Date(1407753309756.94),
+  "generationDate":new Date(1407753557947.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
