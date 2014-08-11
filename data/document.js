@@ -13,7 +13,7 @@
     "loadFeedbackPlugin":false},
   "sitemap":{
     "rootNodes":[{
-        "pageName":"私有云",
+        "pageName":"内部云",
         "type":"Folder",
         "url":"",
         "children":[{
@@ -103,47 +103,47 @@
                 "children":[{
                     "pageName":"Dashboard",
                     "type":"Folder",
-                    "url":""},
-{
-                    "pageName":"Dashboard（数据接入）",
-                    "type":"Wireframe",
-                    "url":"dashboard______.html",
+                    "url":"",
                     "children":[{
-                        "pageName":"查看",
+                        "pageName":"Dashboard（数据接入）",
                         "type":"Wireframe",
-                        "url":"查看.html"},
+                        "url":"dashboard______.html",
+                        "children":[{
+                            "pageName":"查看",
+                            "type":"Wireframe",
+                            "url":"查看.html"},
 {
-                        "pageName":"修改",
-                        "type":"Wireframe",
-                        "url":"修改.html"},
+                            "pageName":"修改",
+                            "type":"Wireframe",
+                            "url":"修改.html"},
 {
-                        "pageName":"审批",
-                        "type":"Wireframe",
-                        "url":"审批.html"},
+                            "pageName":"审批",
+                            "type":"Wireframe",
+                            "url":"审批.html"},
 {
-                        "pageName":"删除",
-                        "type":"Wireframe",
-                        "url":"删除.html"}]},
+                            "pageName":"删除",
+                            "type":"Wireframe",
+                            "url":"删除.html"}]},
 {
-                    "pageName":"Dashboard（资源接入）",
-                    "type":"Wireframe",
-                    "url":"dashboard_______1.html",
-                    "children":[{
-                        "pageName":"查看",
+                        "pageName":"Dashboard（资源接入）",
                         "type":"Wireframe",
-                        "url":"查看_1.html"},
+                        "url":"dashboard_______1.html",
+                        "children":[{
+                            "pageName":"查看",
+                            "type":"Wireframe",
+                            "url":"查看_1.html"},
 {
-                        "pageName":"修改",
-                        "type":"Wireframe",
-                        "url":"修改_1.html"},
+                            "pageName":"修改",
+                            "type":"Wireframe",
+                            "url":"修改_1.html"},
 {
-                        "pageName":"确认",
-                        "type":"Wireframe",
-                        "url":"确认.html"},
+                            "pageName":"确认",
+                            "type":"Wireframe",
+                            "url":"确认.html"},
 {
-                        "pageName":"删除",
-                        "type":"Wireframe",
-                        "url":"删除_1.html"}]},
+                            "pageName":"删除",
+                            "type":"Wireframe",
+                            "url":"删除_1.html"}]}]},
 {
                     "pageName":"数据接入",
                     "type":"Wireframe",

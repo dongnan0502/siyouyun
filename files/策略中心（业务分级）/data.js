@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"策略中心（业务分级）.html",
-  "generationDate":new Date(1406877811696.74),
+  "generationDate":new Date(1407727888600.23),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -542,7 +542,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/dashboard______/u96_line.png"}},
+            "line~":"images/删除/u96_line.png"}},
 {
           "id":"dc1216f669334e8dbd1b1a0fd820e878",
           "label":"",
@@ -774,7 +774,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/dashboard______/u107.png"}},
+            "normal~":"images/删除/u107.png"}},
 {
           "id":"cba3ba7cd4d74b24964ecaf7d85335c7",
           "label":"",
@@ -944,7 +944,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/dashboard______/u117_line.png"}},
+            "line~":"images/删除/u117_line.png"}},
 {
           "id":"3fced000725140a2be126096d3fae537",
           "label":"",
