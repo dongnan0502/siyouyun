@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"修改_2.html",
-  "generationDate":new Date(1407753091025.6),
+  "generationDate":new Date(1407753322193.12),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

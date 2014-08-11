@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"策略中心（业务分级）.html",
-  "generationDate":new Date(1407753088478.7),
+  "generationDate":new Date(1407753320012.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

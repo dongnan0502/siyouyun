@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"删除_1.html",
-  "generationDate":new Date(1407753085922.33),
+  "generationDate":new Date(1407753317683.13),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

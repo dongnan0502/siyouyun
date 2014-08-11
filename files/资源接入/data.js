@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"资源接入.html",
-  "generationDate":new Date(1407753087930.22),
+  "generationDate":new Date(1407753319483.92),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"集群状态（idc维度）.html",
-  "generationDate":new Date(1407753096806.18),
+  "generationDate":new Date(1407753327742.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
