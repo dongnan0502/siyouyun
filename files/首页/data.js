@@ -1,10 +1,10 @@
 ﻿$axure.loadCurrentPage({
   "url":"首页.html",
-  "generationDate":new Date(1407727856737.06),
+  "generationDate":new Date(1407753060078.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
-    "packageId":"400eea797a0648c897ab35a5b1121724",
+    "packageId":"bda9f316ec9c48bcbb960ee308b70b80",
     "type":"Axure:Page",
     "name":"首页",
     "notes":{
@@ -30,28 +30,34 @@
 },
     "diagram":{
       "objects":[{
-          "id":"6b0d8183fb494dceb6cd7d0731fc2983",
+          "id":"adcba967731e45e4b66ad465538b9090",
           "label":"",
           "type":"imageBox",
           "styleType":"imageBox",
           "visible":true,
           "style":{
+            "location":{
+              "x":-15,
+              "y":1},
             "size":{
               "width":1439,
-              "height":3370}},
+              "height":3369}},
           "adaptiveStyles":{
 },
           "objects":[{
-              "id":"64198b4943d04e058172f04db79e9a77",
+              "id":"e3134f6236a64b489c88ad457d30c4da",
               "label":"",
               "isContained":true,
               "type":"richTextPanel",
               "styleType":"paragraph",
               "visible":true,
               "style":{
+                "location":{
+                  "x":-15,
+                  "y":1},
                 "size":{
                   "width":1439,
-                  "height":3370}},
+                  "height":3369}},
               "adaptiveStyles":{
 }}],
           "images":{
@@ -59,7 +65,7 @@
   "masters":{
 },
   "objectPaths":{
-    "6b0d8183fb494dceb6cd7d0731fc2983":{
+    "adcba967731e45e4b66ad465538b9090":{
       "scriptId":"u0"},
-    "64198b4943d04e058172f04db79e9a77":{
+    "e3134f6236a64b489c88ad457d30c4da":{
       "scriptId":"u1"}}});

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"集群状态（平台维度）.html",
-  "generationDate":new Date(1407727897999.07),
+  "generationDate":new Date(1407753098746.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
